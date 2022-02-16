@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 ### Oiii! Eu sou a Clara Bessa. 
 Atualmente trabalho como Gestora de T.I., mas estou me empenhando para seguir carreira em Desenvolvedora Front-end! 👩🏼‍💻
+
+##
+
 <div align="center">
   <a href="https://github.com/claradbessa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claradbessa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
