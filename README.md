@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Oiii! Eu sou a Clara Bessa. 
-Atualmente trabalho como Gestora de T.I., mas estou me empenhando para seguir carreira em Desenvolvedora Front-end! 👩🏼‍💻
+Atualmente trabalho como Gestora de T.I., mas estou me empenhando para seguir carreira em Desenvolvimento Front-end! 👩🏼‍💻
 
 ##
 
