@@ -41,6 +41,4 @@ Atualmente trabalho como Gestora de T.I., mas estou me empenhando para seguir ca
   <a href = "mailto:clarakdbessa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a>
   <a href="https://www.linkedin.com/in/claradbessa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"   target="_blank"></a> 
 </div>
-<div style="display: inline_block">
-  <img  src="https://komarev.com/ghpvc/?username=claradbessaa&color=273849" alt="claradbessa" />  
-</div>
+
