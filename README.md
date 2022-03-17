@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Oiii! Eu sou a Clara Bessa. 
+### Oiii!
 Atualmente trabalho como Gestora de T.I., mas estou me empenhando para seguir carreira em Desenvolvimento Front-end! 👩🏼‍💻
 
 ##
