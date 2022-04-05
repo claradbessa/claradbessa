@@ -3,7 +3,7 @@
   <img align="left" height="200" alt="yoda" src="https://cdn.discordapp.com/attachments/875871264437305345/875875306777497630/sticker_13.gif">
   
   
-  ### Oiii! Eu sou a Clara!
+  ### Oiii, eu sou a Clara!
   Atualmente trabalho como Gestora de T.I., mas estou me empenhando para seguir carreira em Desenvolvimento Front-end! 👩🏼‍💻
  
   ##
