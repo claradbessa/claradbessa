@@ -4,7 +4,8 @@
   
   
   ### Oiii, eu sou a Clara!
-  Atualmente trabalho como Gestora de T.I., mas estou me empenhando para seguir carreira em Desenvolvimento Front-end! 👩🏼‍💻
+  Atualmente trabalho como Desenvolvedora Web.
+  Sou apaixonada pelo desenvolvimento Front-End e estou sempre interessada em realizar novos projetos e aprender mais! ! 👩🏼‍💻💙
  
   ##
   
