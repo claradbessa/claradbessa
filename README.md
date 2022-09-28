@@ -3,7 +3,7 @@
   <img align="left" height="200" alt="yoda" src="https://cdn.discordapp.com/attachments/875871264437305345/875875306777497630/sticker_13.gif">
   
   
-  ### Oiii, eu sou a Clara!
+  ### Oi, eu sou a Clara!
   Atualmente trabalho como Desenvolvedora Web Jr. <br>
   Sou apaixonada pelo desenvolvimento Front-End e estou sempre interessada em realizar novos projetos e aprender mais! ! 👩🏼‍💻💙
  
