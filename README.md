@@ -4,7 +4,7 @@
   
   
   ### Oi, eu sou a Clara!
-  Atualmente trabalho como Desenvolvedora Web Jr. <br>
+  Atualmente trabalho como Desenvolvedora Web. <br>
   Sou apaixonada pelo desenvolvimento Front-End e estou sempre interessada em realizar novos projetos e aprender mais! ! 👩🏼‍💻💙
  
   ##
