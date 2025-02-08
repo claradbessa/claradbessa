@@ -1,65 +1,71 @@
-<div>  
- 
-  <img align="left" height="200" alt="yoda" src="https://cdn.discordapp.com/attachments/875871264437305345/875875306777497630/sticker_13.gif">
-  
-  
-  ### Oi, eu sou a Clara!
-  Atualmente trabalho como Desenvolvedora Web. <br>
-  Sou apaixonada pelo desenvolvimento Front-End e estou sempre interessada em realizar novos projetos e aprender mais! ! 👩🏼‍💻💙
- 
-  ##
-  
-  Skills:
-  <div style="display: inline_block">
-   <img align="center" alt="Clara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Clara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Clara-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-   <img align="center" alt="Clara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Clara-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-   <img align="center" alt="Clara-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />       
- </div>
- 
- ##
- Em desenvolvimento:
- <div style="display: inline_block">
-   <img align="center" alt="Clara-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="Clara-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
- </div>
- 
-</div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<br>
+<p align="left"> 
+ 💜 Olá, meu nome é {Clara}!
 
-<br>
-<div>
- <div> 
-  <a href="https://instagram.com/claradbessa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"     target="_blank"></a> 
-  <a href = "mailto:clarabessa@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft- outlook&logoColor=white" target="_blank"></a>
-  <a href = "mailto:clarakdbessa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a>
-  <a href="https://www.linkedin.com/in/claradbessa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"   target="_blank"></a> 
-  <br> 
-</div>
+Sou uma desenvolvedora web com foco em <strong>desenvolvimento front-end</strong>, apaixonada por criar interfaces bonitas, responsivas e intuitivas. Adoro transformar ideias em código funcional e sempre busco aprender mais para melhorar minhas habilidades.
 
- <div>
-  <a href="https://github.com/claradbessa">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=claradbessa&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claradbessa&layout=compact&langs_count=7&theme=radical"/>
-</div>
-  </div>
+💡 Atualmente, estou aprimorando meus conhecimentos em <strong>micro front-end</strong> e <strong>Domain-Driven Design (DDD)</strong> aplicados ao front-end.
 
-<!--
-**claradbessa/claradbessa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Meu objetivo é continuar evoluindo como desenvolvedora front-end, contribuir para projetos incríveis e colaborar com outros profissionais da área. Se você quiser trocar ideias ou trabalhar juntos, sinta-se à vontade para entrar em contato!
 
-Here are some ideas to get you started:
+## 🚀 Minhas Skills
 
-### Hi there 👋
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ..
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚙️ Meu GitHub
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=claradbessa&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=claradbessa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=claradbessa&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+<p align="left">
+  <a href="#" title="Gmail">
+      <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=claradbessa@gmail.com" alt="Gmail"/>
+  </a>
+  <a href="#" title="LinkedIn">
+      <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claradbessa/" alt="LinkedIn"/>
+  </a>
+  <a href="#" title="WhatsApp">
+      <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5512997010397" alt="WhatsApp"/>
+  </a>
+  <a href="#" title="Instagram">
+      <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/claradbessa/" alt="Instagram"/>
+  </a>
+</p>
+
+
+
+
+
+
+
