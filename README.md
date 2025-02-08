@@ -26,14 +26,14 @@ Sou uma desenvolvedora web com foco em <strong>desenvolvimento front-end</strong
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=claradbessa&theme=dark&hide_border=false&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=claradbessa&theme=dracula&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=claradbessa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=claradbessa&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
@@ -41,7 +41,7 @@ Sou uma desenvolvedora web com foco em <strong>desenvolvimento front-end</strong
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=claradbessa&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=claradbessa&theme=dracula&hide_border=false"
         alt="Github Stats"
       />
     </td>
