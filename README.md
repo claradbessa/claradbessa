@@ -5,8 +5,6 @@
 
 Sou uma desenvolvedora web com foco em <strong>desenvolvimento front-end</strong>, apaixonada por criar interfaces bonitas, responsivas e intuitivas. Adoro transformar ideias em código funcional e sempre busco aprender mais para melhorar minhas habilidades.
 
-💡 Atualmente, estou aprimorando meus conhecimentos em <strong>micro front-end</strong> e <strong>Domain-Driven Design (DDD)</strong> aplicados ao front-end.
-
 🎯 Meu objetivo é continuar evoluindo como desenvolvedora front-end, contribuir para projetos incríveis e colaborar com outros profissionais da área. Se você quiser trocar ideias ou trabalhar juntos, sinta-se à vontade para entrar em contato!
 </p>
 
